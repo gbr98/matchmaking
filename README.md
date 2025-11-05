@@ -262,7 +262,7 @@ MatchmakingSystem
 
 - [ ] Dynamic ELO distance based on wait time
 - [ ] Priority for long-waiting players
-- [ ] Role-based matchmaking (e.g., tank, support, DPS)
+- [ ] Role-based matchmaking
 - [ ] Party/group matchmaking
 - [ ] Regional/latency-based matching
 - [ ] Time-of-day player distribution
