@@ -49,7 +49,7 @@ A match can only be created when **ALL** of the following conditions are met:
 - Teams are balanced to minimize the difference in average net wins
 - Players with high win streaks are paired with players who have losing streaks
 - **Goal**: Each team's average net wins should be as close to 0 as possible
-- **Purpose**: Prevents one-sided matches and promotes competitive balance
+- **Purpose**: This factor is intended to test the hypothesis that players in a winning or losing streak could be placed in the team with greater probabilty of losing or winning (respectively)
 
 ### Matchmaking Algorithm
 
